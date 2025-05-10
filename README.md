@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend development (JavaScript, HTML5/CSS, React)
 - 💞️ I’m looking to collaborate on building software and apps people enjoy
       - I'm a lot more comfortable working with backend tech and databases, but I won't back down from learning a new skill
-- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/dmclink)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dmclink)
 - ⚡ Fun fact: I used to build airplanes
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmclink&layout=compact)
